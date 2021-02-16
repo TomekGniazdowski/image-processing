@@ -1,2 +1,1 @@
 # image-processing
-@MichalLopatka
