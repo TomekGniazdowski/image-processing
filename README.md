@@ -8,6 +8,6 @@ Seminar contains:
 - labeling
 - fourier trasnsform
 - edge detectors
+- noises removing
 - hough transform
 - morphological transformations
-- noises removing
